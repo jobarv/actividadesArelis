@@ -1,1 +1,1 @@
-![Diagrama de calculadora](CalculadoraMuseo.png)
+![Diagrama de calculadora](img/CalculadoraMuseo.png)
